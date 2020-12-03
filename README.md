@@ -6,9 +6,9 @@
 
 🌱 I’m currently learning Javascript, Node.js, C/C++ and HTML
 
-👯 I’m looking to collaborate and form a team to change the **WORLD🙈
+👯 I’m looking to collaborate and form a team to change the **WORLD**🙈
 
-📫 How to reach me: [LinkedIn](www.linkedin.com/in/Om-Phatak)
+📫 How to reach me: [LinkedIn](www.linkedin.com/in/om-phatak)
 
 ⚡ Fun fact: I love talking and Anime too!
 
