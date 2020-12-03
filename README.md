@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey there 👋 Hope you are Doing Great
 
-<!--
-**OutdatedGuy/OutdatedGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Om Phatak a.k.a. OutdatedGuy
 
-Here are some ideas to get you started:
+🔭 I’m currently working on [Multiplayer-Snake](https://outdated-multiplayer-snake.glitch.me)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Javascript, Node.js, C/C++ and HTML
+
+👯 I’m looking to collaborate and form a team to change the **WORLD🙈
+
+📫 How to reach me: [LinkedIn](www.linkedin.com/in/Om-Phatak)
+
+⚡ Fun fact: I love talking and Anime too!
+
+### Hope We Can Work Together Sometime
