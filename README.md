@@ -8,7 +8,7 @@
 
 ### 👯 I’m looking to collaborate and form a team to change the **WORLD**🙈
 
-### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/om-phatak)
+### 📫 How to reach me: [LinkedIn](https://linkedin.com/in/om-phatak)
 
 ### ⚡ Fun fact: I love talking and Anime too!
 
