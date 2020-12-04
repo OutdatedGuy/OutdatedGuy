@@ -2,7 +2,7 @@
 
 # I'm Om Phatak a.k.a. OutdatedGuy
 
-### - 🔭 I’m currently working on [Multiplayer-Snake](https://outdated-multiplayer-snake.glitch.me)
+### 🔭 I’m currently working on [Multiplayer-Snake](https://outdated-multiplayer-snake.glitch.me)
 
 ### 🌱 I’m currently learning Javascript, Node.js, C/C++ and HTML
 
