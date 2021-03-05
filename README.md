@@ -2,11 +2,11 @@
 
 # I'm Om Phatak a.k.a. OutdatedGuy
 
-### 🔭 I’m currently working on [Multiplayer-Snake](https://outdated-multiplayer-snake.herokuapp.com)
+### 🔭 I’m currently working on a College [Mini-Project](https://github.com/OutdatedGuy/Mini-Project)
 
 ### 🕸 You can see my Work [HERE](https://www.outdatedguy.rocks/)
 
-### 🌱 I’m currently learning Javascript, Node.js, C/C++, HTML and CSS
+### 🌱 I’m currently learning Javascript, Node.js, C/C++, HTML, CSS, Firebase and React
 
 ### 👯 I’m looking to collaborate and form a team to change the **WORLD**🙈
 
