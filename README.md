@@ -2,7 +2,9 @@
 
 # I'm Om Phatak a.k.a. OutdatedGuy
 
-### 🔭 I’m currently working on a desktop application [Desktop-Outdated-Snake](https://github.com/OutdatedGuy/Outdated-Snake-Desktop/releases/latest/download/Outdated-Snake.Setup.zip)
+### 🔭 My latest project is [Sudoku Solver](https://outdated-sudoku-solver.netlify.app/)  
+
+### 🎰 My desktop application [Desktop-Outdated-Snake](https://github.com/OutdatedGuy/Outdated-Snake-Desktop/releases/latest/download/Outdated-Snake.Setup.zip)
 
 ### 🕸 You can see my Work [HERE](https://www.outdatedguy.rocks/)
 
