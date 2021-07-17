@@ -10,7 +10,15 @@
 
 ### 🕸 You can see my Work [HERE](https://www.outdatedguy.rocks/)  
 
-### 🌱 I’m currently learning Javascript, Node.js, C/C++, HTML, CSS and Firebase  
+### 🌱 I’m currently learning / learned
+- **Javascript**
+- **Node.js**
+- **C/C++**
+- **HTML**
+- **CSS**
+- **Firebase**
+- **Firestore**
+- **Cloud Functions**
 
 ### 👯 I’m looking to collaborate and form a team to change the **WORLD**🙈  
 
