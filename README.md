@@ -4,7 +4,7 @@
 
 ### 🔭 Developer of [SBFC.life](https://www.sbfc.life/)  
 
-### ⚒ My latest Project is [Dismantle-Snake](https://Dismantle-Snake.OutdatedGuy.rocks/)  
+### ⚒ My latest Project is [Search-Trends](https://outdated-trends.herokuapp.com/)  
 
 ### 🎰 My desktop application [Desktop-Outdated-Snake](https://github.com/OutdatedGuy/Outdated-Snake-Desktop/releases/latest/download/Outdated-Snake.Setup.zip)  
 
