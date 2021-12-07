@@ -6,21 +6,25 @@
 
 ### ⚒ My latest Project is [Search-Trends](https://outdated-trends.herokuapp.com/)  
 
-### 🎰 My desktop application [Desktop-Outdated-Snake](https://github.com/OutdatedGuy/Outdated-Snake-Desktop/releases/latest/download/Outdated-Snake.Setup.zip)  
+### 📱 My First Android Application [Outdated-Chats](https://github.com/OutdatedGuy/Outdated-Chats/releases/latest/download/Outdated-Chats.apk)
 
-### 🕸 You can see my Work [HERE](https://www.outdatedguy.rocks/)  
+### 💻 My First Desktop Application [Desktop-Outdated-Snake](https://github.com/OutdatedGuy/Outdated-Snake-Desktop/releases/latest/download/Outdated-Snake.Setup.zip)  
 
-### 🌱 I’m currently learning / learned
+### 🕸 Here's my [Outdated Website](https://outdatedguy.rocks/)  
+
+### 📖 I’m currently learning / learned
 - **Javascript**
 - **Node.js**
-- **C/C++**
 - **HTML**
 - **CSS**
 - **Firebase**
 - **Firestore**
 - **Cloud Functions**
+- **Flutter**
+- **C/C++**
+- **Bootstrap Studio**
 
-### 👯 I’m looking to collaborate and form a team to change the **WORLD**🙈  
+### 👯 I’m looking to collaborate and form a team to change the **WORLD** (^_^)
 
 ### 📫 How to reach me: [LinkedIn](https://linkedin.com/in/om-phatak)  
 
