@@ -2,7 +2,7 @@
 
 # I'm Om Phatak a.k.a. OutdatedGuy
 
-### 🔭 Developer of [SBFC.life](https://www.sbfc.life/)  
+### 🔭 Developer of [Auxpert.in](https://auxpert.in/)  
 
 ### ⚒ My latest Project is [Search-Trends](https://outdated-trends.herokuapp.com/)  
 
@@ -24,7 +24,7 @@
 - **C/C++**
 - **Bootstrap Studio**
 
-### 👯 I’m looking to collaborate and form a team to change the **WORLD** (^_^)
+### 👯 I’m looking to collaborate and form a team to change the **WORLD** 🫠
 
 ### 📫 How to reach me: [LinkedIn](https://linkedin.com/in/om-phatak)  
 
