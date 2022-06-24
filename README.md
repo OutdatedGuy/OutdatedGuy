@@ -4,25 +4,25 @@
 
 ### 🔭 Developer of [Auxpert.in](https://auxpert.in/)  
 
-### ⚒ My latest Project is [Search-Trends](https://outdated-trends.herokuapp.com/)  
+### ⚒ My latest Project is [What's That Anime](https://whats-that-anime.outdatedguy.rocks)  
 
-### 📱 My First Android Application [Outdated-Chats](https://github.com/OutdatedGuy/Outdated-Chats/releases/latest/download/Outdated-Chats.apk)
+### 📱 My Latest Android Application [What's That Anime](https://github.com/OutdatedGuy/Whats-That-Anime/releases/latest/download/android-arm32-release.apk)
 
 ### 💻 My First Desktop Application [Desktop-Outdated-Snake](https://github.com/OutdatedGuy/Outdated-Snake-Desktop/releases/latest/download/Outdated-Snake.Setup.zip)  
 
-### 🕸 Here's my [Outdated Website](https://outdatedguy.rocks/)  
+### 🕸 Here's my [Outdated Website](https://outdatedguy.rocks)  
 
 ### 📖 I’m currently learning / learned
+- **Flutter**
 - **Javascript**
 - **Node.js**
-- **HTML**
-- **CSS**
 - **Firebase**
 - **Firestore**
 - **Cloud Functions**
-- **Flutter**
-- **C/C++**
 - **Bootstrap Studio**
+- **HTML**
+- **CSS**
+- **C/C++**
 
 ### 👯 I’m looking to collaborate and form a team to change the **WORLD** 🫠
 
